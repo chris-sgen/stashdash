@@ -568,6 +568,31 @@
       "unknownAddressAsked": 1,
       "picturesLoaded": 2210
     },
-    "publicAddress": "not yet measured when this file was written"
+    "publicAddress": {
+      "measuredOnUtc": "2026-10-13",
+      "pages": 750,
+      "otherFiles": 148,
+      "identical": 898,
+      "unknownAddress": {
+        "status": 404,
+        "isThePage": true
+      },
+      "pagesBesideAFolderOfTheirName": [
+        {
+          "page": "brands",
+          "folderAddressStatus": 404
+        },
+        {
+          "page": "categories",
+          "folderAddressStatus": 404
+        }
+      ],
+      "capitals": {
+        "asked": "categories/accessories",
+        "insteadOf": "categories/Accessories",
+        "status": 404
+      },
+      "browserPages": 10
+    }
   }
 }
