@@ -1,0 +1,573 @@
+{
+  "disclosure": "Unofficial redesign preview of stashdash.com. Not operated by, affiliated with or endorsed by Stash Dash.",
+  "preview": "https://chris-sgen.github.io/stashdash/",
+  "repository": "https://github.com/chris-sgen/stashdash",
+  "liveSite": "https://www.stashdash.com/",
+  "snapshot": {
+    "dayAtTheBusiness": "October 12, 2026",
+    "timeZoneOfTheBusiness": "America/Los_Angeles",
+    "betweenUtc": [
+      "2026-10-13T00:15Z",
+      "2026-10-13T02:15Z"
+    ],
+    "addressesAsked": 1021,
+    "addressesThatGaveAPage": 1017,
+    "distinctPages": 755,
+    "addressesReadInABrowser": 6,
+    "readingsInABrowser": 7,
+    "pagesOpenedToMeasureTheDesign": 47,
+    "productsTheLiveStoresFilterCounted": 681,
+    "productsHere": 634
+  },
+  "tree": {
+    "filesBesidesTheThreeDocuments": 4703,
+    "bytes": 119286263,
+    "pages": 750,
+    "byType": {
+      ".gitattributes": 1,
+      ".nojekyll": 1,
+      "html": 750,
+      "css": 2,
+      "json": 1,
+      "woff2": 10,
+      "txt": 4,
+      "mp4": 4,
+      "webp": 3929,
+      "js": 1
+    },
+    "pagesByKind": {
+      "products": 634,
+      "brands": 91,
+      "categories": 8,
+      "lists": 3,
+      "text": 10,
+      "own": 4
+    },
+    "savedLiveAddressesWithoutAPageOfTheirOwn": [
+      "/brands/CAT4",
+      "/category/Accessories",
+      "/category/Pre-Rolls",
+      "/category/Vapes",
+      "/category/edibles",
+      "/category/extracts",
+      "/category/flower",
+      "/category/wellness",
+      "/submitopportunities"
+    ]
+  },
+  "words": {
+    "ofTheRedesign": {
+      "controls": [
+        "Skip to main content",
+        "Menu",
+        "Close",
+        "Back",
+        "Breadcrumb",
+        "Previous",
+        "Next",
+        "Search this site",
+        "results",
+        "result",
+        "Nothing found",
+        "(opens the store)"
+      ],
+      "numeralsOnBecomedriver": [
+        "01",
+        "02",
+        "03"
+      ],
+      "ageQuestion": "You must be 21+ years of age to visit this site.",
+      "notes": [
+        {
+          "note": "service",
+          "pages": [
+            "/termsandconditions",
+            "/privacypolicy",
+            "/faq",
+            "/gift-cards",
+            "/deliverylocations"
+          ]
+        },
+        {
+          "note": "offer",
+          "pages": [
+            "/becomedriver",
+            "/learnmore"
+          ]
+        },
+        {
+          "note": "deals",
+          "pages": [
+            "/shop/daily-deals"
+          ]
+        },
+        {
+          "note": "event",
+          "pages": [
+            "/events"
+          ]
+        }
+      ]
+    },
+    "ofTheLiveSiteSetWhereItDoesNotSetThem": {
+      "tagline": {
+        "words": "Your cannabis concierge at your service",
+        "places": 752,
+        "pages": 750,
+        "liveSource": "lettering in the live site's link-preview picture, which is not shipped"
+      },
+      "titlesWrittenByTheBuild": 39,
+      "descriptionsPutTogetherByTheBuild": 61
+    },
+    "pagesFilledByTheRedesign": [
+      "/aboutus",
+      "/contact",
+      "/deliverylocations",
+      "/categories"
+    ],
+    "trailPrintedOnPages": 748,
+    "questionsOfTheFaqOnTheHomePage": 6,
+    "descriptionSentencesPrintedOn": [
+      "/",
+      "/aboutus",
+      "/categories"
+    ],
+    "titles": {
+      "live": 711,
+      "build": 39,
+      "naming": 27,
+      "namingBuilt": 5
+    },
+    "descriptions": {
+      "live": 628,
+      "shortened": 8,
+      "build": 61,
+      "none": 52,
+      "disclosure": 1
+    }
+  },
+  "changes": {
+    "robots": {
+      "tag": "noindex, nofollow, noarchive, nosnippet, noimageindex",
+      "pages": 750
+    },
+    "referrerTag": {
+      "value": "no-referrer",
+      "pages": 750
+    },
+    "jsonLdBlocksRemoved": 739,
+    "cardPictureTagsRemoved": 1500,
+    "cardTags": {
+      "siteName": "Unofficial preview (not Stash Dash)",
+      "titlePrefix": "Unofficial preview: ",
+      "description": "Unofficial redesign preview of stashdash.com. Not operated by, affiliated with or endorsed by Stash Dash.",
+      "pages": 750
+    },
+    "iconLinksRemoved": 1500,
+    "descriptionsReplaced": [
+      {
+        "page": "/login",
+        "why": "it promises a sign-in to a customer account; this copy has no accounts"
+      }
+    ],
+    "canonical": {
+      "kept": 747,
+      "removed": [
+        "/404.html",
+        "/categories",
+        "/search"
+      ],
+      "respelled": [
+        {
+          "page": "/brands/cat4",
+          "to": "https://www.stashdash.com/brands/CAT4"
+        }
+      ]
+    },
+    "ageQuestion": {
+      "reads": "You must be 21+ years of age to visit this site.",
+      "agreementBoxRemovedOnPages": 748,
+      "pagesThatAsk": 748,
+      "answerKeptIn": "localStorage",
+      "underTheName": "stashdash_preview_age"
+    },
+    "notCarried": {
+      "orderSentenceRemovedOnPages": 634,
+      "flyerWordsAsTextRemovedOn": [
+        "/events"
+      ],
+      "healthSentences": {
+        "inPageText": 9,
+        "inDescriptionTags": 9,
+        "pages": [
+          "/product/blood-orange-1-1-gummies-a8",
+          "/product/blue-dream-pod-d5",
+          "/product/full-spectrum-thc-cannabis-oil-1g",
+          "/product/grape-goddess-pod-1g-o2",
+          "/product/pear-1-1-gummies-a8",
+          "/product/pear-cbg-gummies-b4",
+          "/product/pineapple-express-pod-1g-o2",
+          "/product/solventless-pear-apple-recover-gummies-p4"
+        ]
+      }
+    },
+    "buttonsTurnedToTheLivePage": [
+      {
+        "page": "/becomedriver",
+        "links": 3,
+        "was": "shop.stiiizy.com",
+        "to": "https://www.stashdash.com/becomedriver"
+      }
+    ],
+    "picturesNotShown": [
+      {
+        "page": "/learnmore",
+        "what": "customer app mock-up",
+        "kind": "personal data",
+        "how": "the picture beside a list"
+      },
+      {
+        "page": "/learnmore",
+        "what": "driver app mock-up",
+        "kind": "person",
+        "how": "the picture beside a list"
+      },
+      {
+        "page": "/learnmore",
+        "what": "admin screen mock-up",
+        "kind": "personal data",
+        "how": "the picture beside a list"
+      }
+    ],
+    "sourceMarksStripped": 0,
+    "linksToTheLiveAddress": [
+      {
+        "page": "/gift-cards",
+        "words": "https://www.stashdash.com/"
+      }
+    ],
+    "commentsRemoved": {
+      "stylesheet": 94,
+      "script": 31
+    },
+    "notShipped": [
+      ".htaccess",
+      "_redirects",
+      "llms.txt",
+      "sitemap.xml"
+    ],
+    "robotsTxt": "replaced by the preview's own (Disallow: /); it has no effect under a project path",
+    "filesNothingNamesNotShipped": 684,
+    "filesAdded": [
+      "assets/css/preview.css",
+      "assets/fonts/OFL-Archivo.txt",
+      "assets/fonts/OFL-DM-Mono.txt",
+      "assets/fonts/OFL-Fraunces.txt",
+      ".nojekyll",
+      ".gitattributes"
+    ]
+  },
+  "leavesThisCopy": {
+    "controlsToTheLiveStore": {
+      "total": 8985,
+      "pages": 750,
+      "byWords": {
+        "Log In (opens the store)": 750,
+        "Cart (opens the store)": 750,
+        "Set Delivery Address": 1605,
+        "Subscribe": 750,
+        "Cart": 1500,
+        "Log In": 1501,
+        "Enter Address": 1495,
+        "Checkout": 2,
+        "https://www.stashdash.com//paymentsettings": 1,
+        "Add to cart": 631
+      },
+      "byTarget": {
+        "the sign-in": 2251,
+        "the home page": 6100,
+        "the gift-card page": 2,
+        "/paymentsettings": 1,
+        "the page of the product": 631
+      }
+    },
+    "otherLinksToTheLiveSite": 4,
+    "mailLinks": {
+      "toTheBusiness": {
+        "delivery@stashdash.com": 1504
+      },
+      "inTheTwoDocumentsToTheOtherBrandTheyName": 3
+    },
+    "telephoneLinks": 0,
+    "otherHosts": [
+      {
+        "host": "p65warnings.ca.gov",
+        "links": 1384,
+        "pages": 750
+      },
+      {
+        "host": "google.com",
+        "links": 2,
+        "pages": 2
+      },
+      {
+        "host": "grassdoor.com",
+        "links": 2,
+        "pages": 2
+      },
+      {
+        "host": "consumer.ftc.gov",
+        "links": 1,
+        "pages": 1
+      },
+      {
+        "host": "networkadvertising.org",
+        "links": 1,
+        "pages": 1
+      },
+      {
+        "host": "support.apple.com",
+        "links": 1,
+        "pages": 1
+      },
+      {
+        "host": "support.google.com",
+        "links": 1,
+        "pages": 1
+      },
+      {
+        "host": "support.mozilla.org",
+        "links": 1,
+        "pages": 1
+      },
+      {
+        "host": "tools.google.com",
+        "links": 1,
+        "pages": 1
+      },
+      {
+        "host": "windows.microsoft.com",
+        "links": 1,
+        "pages": 1
+      }
+    ]
+  },
+  "generated": {
+    "stillsMade": 4,
+    "loopsMade": 2,
+    "stillsShipped": [
+      "still-bell",
+      "still-bowtie"
+    ],
+    "loopsShipped": [
+      "loop-night-dash",
+      "loop-tray"
+    ],
+    "frameStillsNotShipped": [
+      "still-night-dash",
+      "still-tray"
+    ],
+    "filesUnderAssetsGenerated": 16,
+    "pagesThatShowOne": [
+      "/",
+      "/aboutus",
+      "/becomedriver",
+      "/contact",
+      "/deliverylocations",
+      "/faq"
+    ],
+    "files": [
+      {
+        "id": "loop-night-dash",
+        "kind": "loop",
+        "shows": "an empty road at night",
+        "service": "Higgsfield",
+        "model": "kling-video/o3/first-last-frame",
+        "madeOnUtc": "2026-10-13",
+        "from": "still-night-dash",
+        "pages": [
+          "/becomedriver",
+          "/deliverylocations"
+        ]
+      },
+      {
+        "id": "loop-tray",
+        "kind": "loop",
+        "shows": "a silver tray with a plain wrapped gift box",
+        "service": "Higgsfield",
+        "model": "kling-video/o3/first-last-frame",
+        "madeOnUtc": "2026-10-13",
+        "from": "still-tray",
+        "pages": [
+          "/"
+        ]
+      },
+      {
+        "id": "still-bell",
+        "kind": "still",
+        "shows": "a brass desk bell",
+        "service": "fal.ai",
+        "model": "fal-ai/nano-banana-pro",
+        "madeOnUtc": "2026-10-13",
+        "from": null,
+        "pages": [
+          "/",
+          "/contact",
+          "/faq"
+        ]
+      },
+      {
+        "id": "still-bowtie",
+        "kind": "still",
+        "shows": "a black bow tie on linen",
+        "service": "Higgsfield",
+        "model": "alibaba/qwen-image-3/text-to-image",
+        "madeOnUtc": "2026-10-13",
+        "from": null,
+        "pages": [
+          "/aboutus"
+        ]
+      }
+    ]
+  },
+  "liveSitePictures": {
+    "sourcePicturesShown": 697,
+    "leftOutByThePrivateBuildAlthoughFetched": 45,
+    "addressesThatGaveNoFile": 17,
+    "namedOnlyInTagsThisCopyRemoves": 65,
+    "notShownInThisCopy": 3
+  },
+  "typefaces": {
+    "families": [
+      "Fraunces",
+      "Archivo",
+      "DM Mono"
+    ],
+    "licence": "SIL Open Font License 1.1",
+    "files": 10,
+    "notices": [
+      "Copyright 2020 The Archivo Project Authors (https://github.com/Omnibus-Type/Archivo)",
+      "Copyright 2020 The DM Mono Project Authors (https://www.github.com/googlefonts/dm-mono)",
+      "Copyright 2020 The Fraunces Project Authors (github.com/undercasetype/Fraunces)"
+    ],
+    "licenceTexts": [
+      "assets/fonts/OFL-Archivo.txt",
+      "assets/fonts/OFL-DM-Mono.txt",
+      "assets/fonts/OFL-Fraunces.txt"
+    ]
+  },
+  "privateBuild": {
+    "textCheck": {
+      "scope": "the saved HTML of the live pages",
+      "livePages": 755,
+      "liveRuns": 35817,
+      "found": 29219,
+      "leftOutByRule": 6598,
+      "lost": 0,
+      "builtRuns": 251342,
+      "notTheSitesOwn": 0
+    },
+    "wordComparison": {
+      "meanRecall": 0.9932,
+      "lowest": 0.9619,
+      "floor": 0.95,
+      "addresses": 1017,
+      "mapped": 1017,
+      "wordsOfTheSavedPages": 348256,
+      "wordsSetAsideBeforeTheComparison": 113154,
+      "savedAddressesThroughAForward": 9,
+      "pagesBySavedAddresses": {
+        "1": 495,
+        "2": 258,
+        "3": 2
+      },
+      "minorFindings": {
+        "alt-missing": 1017,
+        "contact-removed-declared": 1018,
+        "description-changed": 59,
+        "title-changed": 59
+      }
+    },
+    "statementsChecked": {
+      "checked": 12985,
+      "flagged": 0
+    },
+    "tracesOfTheLiveSystem": {
+      "filesScanned": 756,
+      "findings": 0
+    },
+    "layoutSweep": {
+      "sweeps": 3000,
+      "findings": 0
+    },
+    "behaviour": {
+      "atRoot": "20/20",
+      "fromAFolder": "20/20"
+    },
+    "touchTargets": {
+      "pages": 36,
+      "findings": 0
+    },
+    "pipelineVerdict": {
+      "verdict": "NOT-READY",
+      "counts": {
+        "PASS": 25,
+        "FAIL": 4
+      },
+      "notPassing": [
+        {
+          "id": "C03",
+          "label": "Every crawled page fetched successfully",
+          "status": "FAIL"
+        },
+        {
+          "id": "C05",
+          "label": "No page is an unresolved JS-rendered shell",
+          "status": "FAIL"
+        },
+        {
+          "id": "C07",
+          "label": "Image inventory completed with real dimensions",
+          "status": "FAIL"
+        },
+        {
+          "id": "C22",
+          "label": "Design matches the source pixel-for-pixel at every breakpoint",
+          "status": "FAIL"
+        }
+      ]
+    }
+  },
+  "previewVerification": {
+    "static": {
+      "filesBesidesTheThreeDocuments": 4703,
+      "pages": 750,
+      "references": 180007,
+      "localReferences": 163574,
+      "findings": 0,
+      "binaries": {
+        "webp": 3929,
+        "mp4": 4,
+        "woff2": 10
+      }
+    },
+    "selfTest": {
+      "defectsPlanted": 83,
+      "reportsTheyMustGive": 93,
+      "reportsGiven": 93,
+      "rulesForFiles": 90,
+      "ofThemExercised": 85,
+      "rulesOfTheBrowserPass": 17,
+      "rulesOfThePublicAddressPass": 17
+    },
+    "browser": {
+      "browser": "Chrome 155 (headless, on Windows)",
+      "where": "a local server that serves the tree under /stashdash/",
+      "behaviourProofs": "20/20",
+      "pagesScrolledAndMeasured": 56,
+      "unknownAddressAsked": 1,
+      "picturesLoaded": 2210
+    },
+    "publicAddress": "not yet measured when this file was written"
+  }
+}

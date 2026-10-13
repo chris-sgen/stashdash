@@ -1,0 +1,4 @@
+# Unofficial redesign preview of https://www.stashdash.com
+# Nothing here should be indexed: it must not compete with the business's own site.
+User-agent: *
+Disallow: /
